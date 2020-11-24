@@ -140,4 +140,3 @@ dependencies:
     - widgetsnbextension==3.5.1
     - wrapt==1.12.1
     - zipp==3.2.0
-prefix: /home/soterios/anaconda3/envs/adver
