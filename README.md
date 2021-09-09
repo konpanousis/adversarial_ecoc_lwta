@@ -1,6 +1,6 @@
 # Local Competition and Stochasticity for Adversarial Robustness
 
-This repository contains the implementation code for "Local Competition and Stochasticity for Adversarial Robustness".
+This repository contains the implementation code for "Local Competition and Stochasticity for Adversarial Robustness", AISTATS 2021.
 
 ## Considered Attacks and architectures
 We consider the PGD, CW, BSA, additive uniform noise attacks, while we evaluate the confidence of the predictions of the model to a randomly constructed input. See the paper [Error Correcting Output Codes Improve Probability Estimation and Adversarial Robustness of Deep Neural Networks](https://papers.nips.cc/paper/2019/file/cd61a580392a70389e27b0bc2b439f49-Paper.pdf) for an analysis of the considered architectures for both standard and ensemble models.
